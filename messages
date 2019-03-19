@@ -1,0 +1,311 @@
+<Environment>	
+	<Variable>
+		<Name>Messages_0001</Name>
+		<Value><![CDATA[Device ID: param1, Type: S, Parent (Config/Actual): GW/Unknown, CommStatus: -1, Detection: false, DetectionCount: , Description:  , Sensitivity (Config/Actual): SM/Unknown, Card Mapping: Card 0-0 Channel:1, STS Mapping: 0-0-2, Tram Nearby (Config/Actual): Off/Off, Row 1]]></Value>
+	</Variable>
+	<Variable>
+		<Name>Messages_0002</Name>
+		<Value><![CDATA[Device ID: param1, Type: S, Parent (Config/Actual): GW/GW, CommStatus: 0, Detection: false, DetectionCount: 2, Description:  , Sensitivity (Config/Actual): SM/Count, Card Mapping: Card 0-0 Channel: 1, STS Mapping: 0-0-1, Tram Nearby (Config/Actual): param2/On, Row 2]]></Value>
+	</Variable>
+	<Variable>
+		<Name>Messages_0003</Name>
+		<Value><![CDATA[Saving to Gateway param1 Validating...param2 Saving dots to the Gateway...param3 Saving dot pairs to the Gateway...param4 Saving temperature data to the Gateway...param5 0 dot pair configurations saved to the Gateway.param6 Tables have been saved. Do you want to save to flash?]]></Value>
+	</Variable>
+	<Variable>
+		<Name>Messages_0004</Name>
+		<Value><![CDATA[Choosing 'Yes' will remove this Compass from the map.]]></Value>
+	</Variable>
+	<Variable>
+		<Name>Messages_0005</Name>
+		<Value><![CDATA[Saving to Gatewayparam1 Validating...param2 Saving dots to the Gateway...param3Saving dot pairs to the Gateway...param4 Saving temperature data to the Gateway...param5 0 dot pair configurations saved to the Gateway.param6 Tables have been saved. Do you want to save to flash?param7 Configuration saved to flashparam8 Saving map data to the Gateway...param9 Map data has been saved to the Gateway.]]></Value>
+	</Variable>
+	<Variable>
+		<Name>Messages_0006</Name>
+		<Value><![CDATA[There must be one sensor configured to be saved in the dot table:]]></Value>
+	</Variable>
+	<Variable>
+		<Name>Messages_0007</Name>
+		<Value><![CDATA[Choosing 'Yes' will delete this sensorZone,param1 , from the map. Are you sure you want to do this?]]></Value>
+	</Variable>
+	<Variable>
+		<Name>Messages_0008</Name>
+		<Value><![CDATA[Choosing 'Yes' will remove this text from the map.]]></Value>
+	</Variable>
+	<Variable>
+		<Name>Messages_0009</Name>
+		<Value><![CDATA[Uploading param1 ...param2 Starting file encoding...param3 Encoded bytes/Bytes to Encode]]></Value>
+	</Variable>
+	<Variable>
+		<Name>Messages_0010</Name>
+		<Value><![CDATA[Choosing 'Yes' will delete the following Sensor from the system and clear its sensor zone association: param1 , and the dot configuration at 'save' time.]]></Value>
+	</Variable>
+	<Variable>
+		<Name>Messages_0011</Name>
+		<Value><![CDATA[Choosing 'Yes' will remove the Gateway from the map.]]></Value>
+	</Variable>
+	<Variable>
+		<Name>Messages_0012</Name>
+		<Value><![CDATA[Choosing 'Yes' will remove the Gateway from the map and remove its association to its sensor zone.]]></Value>
+	</Variable>
+	<Variable>
+		<Name>Messages_0014</Name>
+		<Value><![CDATA[You must first move the sensorZone's sensors to another sensorZone or delete them before deleting the sensorZone: param1]]></Value>
+	</Variable>
+	<Variable>
+		<Name>Messages_0015</Name>
+		<Value><![CDATA[Choosing 'Yes' will remove the following Sensor from the map: param1 * It will delete the Sensor from the Dot configuration. * The Sensor will appear afterwards in the Tray at the bottom. * Are you sure you want to do this?]]></Value>
+	</Variable>
+	<Variable>
+		<Name>Messages_0016</Name>
+		<Value><![CDATA[Geometry configuration passes validation checks]]></Value>
+	</Variable>
+	<Variable>
+		<Name>Messages_0017</Name>
+		<Value><![CDATA[Sensors must have non-zero distance from stopbar defined: Sensor: param1]]></Value>
+	</Variable>
+	<Variable>
+		<Name>Messages_0018</Name>
+		<Value><![CDATA[Choosing 'Yes' will delete the following Sensor from the system and clear its sensor zone association: param1 , and the dot configuration at 'save' time.]]></Value>
+	</Variable>
+	<Variable>
+		<Name>Messages_0019</Name>
+		<Value><![CDATA[Configuration saved to flash param1 Saving map data to the Gateway...param2 Map data has been saved to the Gateway.]]></Value>
+	</Variable>
+	<Variable>
+		<Name>Messages_0020</Name>
+		<Value><![CDATA[Saving dot pairs to the Gateway...param1 Saving temperature data to the Gateway...param2 0 dot pair configurations saved to the Gateway. param3 Tables have been saved. Do you want to save to flash?]]></Value>
+	</Variable>
+	<Variable>
+		<Name>Messages_0021</Name>
+		<Value><![CDATA[Saving dot pairs to the Gateway...param1 Saving temperature data to the Gateway...param2 1 dot pair configurations saved to the Gateway.param3 Tables have been saved. Do you want to save to flash?]]></Value>
+	</Variable>
+	<Variable>
+	<Name>Messages_0022</Name>
+		<Value><![CDATA[Sensor Zone param1 : param2 must have 2, 3 or 4 sensors in vertical layout param3 Found 1: param4]]></Value>
+	</Variable>
+	<Variable>
+	<Name>Messages_0023</Name>
+		<Value><![CDATA[Configuration saved to flash param1 Saving map data to the Gateway...param2 Map data has been saved to the Gateway.]]></Value>
+	</Variable>
+	<Variable>
+	<Name>Messages_0024</Name>
+		<Value><![CDATA[Sensor Zone param1 : param2 There must be one sensor configured to be saved in the dot table: 0]]></Value>
+	</Variable>
+	<Variable>
+	<Name>Messages_0025</Name>
+		<Value><![CDATA[Sensor Zone param1 : param2 Vertical position must be Lead(0) param3 See sensors: param4]]></Value>
+	</Variable>
+	<Variable>
+	<Name>Messages_0026</Name>
+		<Value><![CDATA[Exporting dots to csv...param1 param2 dot pair configurations exported to csv.]]></Value>
+	</Variable>
+	<Variable>
+	<Name>Messages_0027</Name>
+		<Value><![CDATA[There must be one microradar sensor on this sensor zone]]></Value>
+	</Variable>
+	<Variable>
+	<Name>Messages_0028</Name>
+		<Value><![CDATA[Choosing Yes will map Sensor param1 to param2 on channel param3 . * Do you wish to continue?]]></Value>
+	</Variable>
+	<Variable>
+	<Name>Messages_0029</Name>
+		<Value><![CDATA[Saving to Gateway param1 Validating...param2 Saving dots to the Gateway...param3 No dots were eligible to be saved to the Gateway]]></Value>
+	</Variable>
+	<Variable>
+	<Name>Messages_0029</Name>
+	<Value><![CDATA[Saving to Gateway param1 Validating...param2 Saving dots to the Gateway...param3 No dots were eligible to be saved to the Gateway]]></Value>
+	</Variable>
+	<Variable>
+	<Name>Messages_0030</Name>
+	<Value><![CDATA[Saving to Gateway param1 Validating... param2 Saving dots to the Gateway... param3 Configuration saved to flash param4 Saving map data to the Gateway... param5 Map data has been saved to the Gateway.]]></Value>
+	</Variable>
+<Variable>
+	<Name>Messages_0031</Name>
+	<Value><![CDATA[Choosing 'Yes' will remove the following Sensor from the map: param1 * Are you sure you want to do this?]]></Value>
+	</Variable>
+<Variable>
+	<Name>Messages_0032</Name>
+	<Value><![CDATA[Choosing Yes will change the rf channel of the following Sensor to talk to this SPP on channel param1 : param2 * Do you wish to continue?]]></Value>
+	</Variable>
+<Variable>
+	<Name>Messages_0033</Name>
+	<Value><![CDATA[param1 * The map file you tried to upload is too large. Limit is 240000]]></Value>
+	</Variable>
+	<Variable>
+	<Name>Messages_0034</Name>
+		<Value><![CDATA[Device ID: param1, Type: S, Parent (Config/Actual): GW/Unknown]]></Value>
+	</Variable>
+	<Variable>
+	<Name>Messages_0035</Name>
+		<Value><![CDATA[Device ID: param1, Type: S, Parent (Config/Actual): GW/GW]]></Value>
+	</Variable>
+	<Variable>
+	<Name>Messages_0036</Name>
+		<Value><![CDATA[Mapping Choice: param1 * Sensitivity Choice: param2]]></Value>
+	</Variable>
+	<Variable>
+	<Name>Messages_0037</Name>
+		<Value><![CDATA[MinimizeMaximizeCloseMapInfoImagePrtScrGatewayInfoShowLogsMapLayersZoominSaveMapTableCompassDragtoplaceonMapConfigZoomOutRevertSaveImportDotTableFileRebootUnmap]]></Value>
+	</Variable>
+	<Variable>
+	<Name>Messages_0038</Name>
+		<Value><![CDATA[MinimizeMaximizeCloseMapInfoImageGatewayInfoPrtScrFullscreenMapLayersZoominDiscoverModeShowLogsSaveMapTableCompassDragtoplaceonMapConfigZoomOutUseSensorDataIgnoreSensorDataRefreshGatewayUnmap]]></Value>
+	</Variable><Variable>
+<Name>Messages_0039</Name>
+<Value><![CDATA[MinimizeMaximizeCloseMapInfoImageGatewayInfoPrtScrFullscreenMapLayersZoominDiscoverModeShowLogsSaveSensorZoneNBDragtoplaceonMapMapTableConfigSensorZoneSBDragtoplaceonMapSensorZoneEBDragtoplaceonMapSensorZoneWBDragtoplaceonMapZoomOutSensorDragtoplaceonMapMicroradarDragtoplaceonMapUseSensorDataIgnoreSensorDataCompassDragtoplaceonMapRefreshGatewayUnmap]]></Value>
+	</Variable>
+<Variable>
+<Name>Messages_0041</Name>
+<Value><![CDATA[MinimizeMaximizeCloseMapInfoImageGatewayInfoPrtScrFullscreenMapLayersZoominDiscoverModeShowLogsSaveSensorZoneNBDragtoplaceonMapMapTableConfigSensorZoneSBDragtoplaceonMapSensorZoneEBDragtoplaceonMapSensorZoneWBDragtoplaceonMapZoomOutSensorDragtoplaceonMapMicroradarDragtoplaceonMapCompassDragtoplaceonMapDualRingDiagramConfigurePhaseSourceValidateSensMetricsConfigPublishSensMetricsFileforSNAPSRevertApply]]></Value>
+</Variable>
+<Variable>
+<Name>Messages_0042</Name>
+<Value><![CDATA[MinimizeMaximizeCloseMapInfoImageGatewayInfoPrtScrFullscreenMapLayersZoominDiscoverModeShowLogsSaveSensorZoneNBDragtoplaceonMapMapTableConfigSensorZoneSBDragtoplaceonMapSensorZoneEBDragtoplaceonMapSensorZoneWBDragtoplaceonMapZoomOutSensorDragtoplaceonMapMicroradarDragtoplaceonMapCompassDragtoplaceonMapRevertApply]]></Value>
+</Variable>
+<Variable>
+<Name>Messages_0043</Name>
+<Value><![CDATA[MinimizeMaximizeCloseMapInfoImageGatewayInfoPrtScrFullscreenMapLayersZoominDiscoverModeShowLogsSaveSensorZoneNBDragtoplaceonMapMapTableConfigSensorZoneSBDragtoplaceonMapSensorZoneEBDragtoplaceonMapSensorZoneWBDragtoplaceonMapZoomOutSensorDragtoplaceonMapMicroradarDragtoplaceonMapUseSensorDataIgnoreSensorDataCompassDragtoplaceonMapRefreshGatewayUnmap]]></Value>
+	</Variable>
+<Variable>
+<Name>Messages_0044</Name>
+<Value><![CDATA[MinimizeMaximizeCloseMapInfoImagePrtScrGatewayInfoShowLogsMapLayersZoominSaveSensorZoneNBDragtoplaceonMapMapTableConfigSensorDragtoplaceonMapCompassDragtoplaceonMapZoomOutImportKMLlocationfilePublishIntersectionDataRevertApply]]></Value>
+	</Variable>
+<Variable>
+<Name>Messages_0045</Name>
+<Value><![CDATA[MinimizeMaximizeCloseMapInfoImagePrtScrGatewayInfoShowLogsMapLayersZoominSaveSensorZoneNBDragtoplaceonMapMapTableConfigSensorDragtoplaceonMapCompassDragtoplaceonMapZoomOutRefreshGatewayUnmap]]></Value>
+	</Variable>
+<Variable>
+<Name>Messages_0046</Name>
+<Value><![CDATA[MinimizeMaximizeCloseGatewayInfoPrtScrConfigureShowLogsRevertSaveReboot]]></Value>
+	</Variable>
+<Variable>
+<Name>Messages_0047</Name>
+<Value><![CDATA[MinimizeMaximizeCloseMapInfoImagePrtScrGatewayInfoDiscoverModeMapLayersZoominShowLogsSaveRepeaterDragtoplaceonmapMapTableConfigSensorDragtoplaceonMapMicroradarDragtoplaceonMapZoomOutCompassDragtoplaceonMapRevertSaveWriteconfigfiletoGatewayClearcurrentconfigDownloadconfigfromGatewayBackupRestoreRebootUnmap]]></Value>
+	</Variable>
+<Variable>
+<Name>Messages_0048</Name>
+<Value><![CDATA[MinimizeMaximizeCloseMapInfoImagePrtScrGatewayInfoDiscoverModeMapLayersZoominShowLogsSaveRepeaterDragtoplaceonmapMapTableConfigSensorDragtoplaceonMapMicroradarDragtoplaceonMapZoomOutCompassDragtoplaceonMapRevertApply]]></Value>
+	</Variable>
+<Variable>
+<Name>Messages_0049</Name>
+<Value><![CDATA[MinimizeMaximizeCloseGatewayInfoPrtScrConfigureShowLogsSetRFChannelSetColorCodeSetIDRevert]]></Value>
+	</Variable>
+<Variable>
+<Name>Messages_0050</Name>
+<Value><![CDATA[SelectDisabledFarLeft3MidLeft2Left1Center0Right1MidRight2FarRight3]]></Value>
+	</Variable>
+<Variable>
+<Name>Messages_0050А</Name>
+<Value><![CDATA[Select...DisabledFar-Left(-3)Mid-Left(-2)Left(-1)Center(0)Right(1)Mid-Right(2)Far-Right(3)]]></Value>
+	</Variable>
+<Variable>
+<Name>Messages_0051</Name>
+<Value><![CDATA[SelectDisabledLead0Trail1Trail2Trail3]]></Value>
+	</Variable>
+<Variable>
+<Name>Messages_0051А</Name>
+<Value><![CDATA[Select...DisabledLead(0)Trail(1)Trail(2)Trail(3)]]></Value>
+	</Variable><Variable>
+<Name>Messages_0052</Name>
+<Value><![CDATA[AZAxisBCountCReIDDRawXYZEIdleFGatedXYZHHASStopBar0DefaultStopBar1StopBar2StopBar3StopBar4StopBar5StopBar6StopBar7StopBar8StopBar9StopBar10StopBar11StopBar12StopBar13StopBar14StopBar15]]></Value>
+	</Variable>
+<Variable>
+<Name>Messages_0052A</Name>
+<Value><![CDATA[AZAxisBCountCRe-ID)D (Raw XYZ)E (Idle)F (Gated XYZ)H (HAS)Stop Bar 0 (Default)Stop Bar 1Stop Bar 2Stop Bar 3Stop Bar 4Stop Bar 5Stop Bar 6Stop Bar 7Stop Bar 8Stop Bar 9Stop Bar 10Stop Bar 11Stop Bar 12Stop Bar 13Stop Bar 14Stop Bar 15]]></Value>
+	</Variable><Variable>
+<Name>Messages_0053</Name>
+<Value><![CDATA[0param1SPP11234567891011param2SPP012131415]]></Value>
+	</Variable>
+<Variable>
+<Name>Messages_0054</Name>
+<Value><![CDATA[NoneFilter 3Filter 4]]></Value>
+	</Variable>
+<Variable>
+<Name>Messages_0055</Name>
+<Value><![CDATA[ZandXNormalXonlyYonlyZonly]]></Value>
+	</Variable>
+<Variable>
+<Name>Messages_0055A</Name>
+<Value><![CDATA[Z and X (Normal)X onlyY onlyZ only]]></Value>
+	</Variable><Variable>
+<Name>Messages_0056</Name>
+<Value><![CDATA[StopBar0DefaultStopBar1StopBar2StopBar3StopBar4StopBar5StopBar6StopBar7StopBar8StopBar9StopBar10StopBar11StopBar12StopBar13StopBar14StopBar15]]></Value>
+	</Variable>
+<Variable>
+<Name>Messages_0056A</Name>
+<Value><![CDATA[Stop Bar 0 (Default)Stop Bar 1Stop Bar 2Stop Bar 3Stop Bar 4Stop Bar 5Stop Bar 6Stop Bar 7Stop Bar 8Stop Bar 9Stop Bar 10Stop Bar 11Stop Bar 12Stop Bar 13Stop Bar 14Stop Bar 15]]></Value>
+	</Variable>
+<Variable>
+<Name>Messages_0057</Name>
+<Value><![CDATA[DefaultQuickOffSlowQuickOffDefaultQuickOnSlowQuickOn]]></Value>
+	</Variable>
+
+<Variable>
+<Name>Messages_0057A</Name>
+<Value><![CDATA[Default/Quick OffSlow/Quick OffDefault/Quick OnSlow/Quick On]]></Value>
+	</Variable><Variable>
+<Name>Messages_0058</Name>
+<Value><![CDATA[ADetectBIFDisplayCBinDebugDParkingEIdle]]></Value>
+
+</Variable>
+<Variable>
+<Name>Messages_0058A</Name>
+<Value><![CDATA[?A(Detect)?B(IFDisplay)?C(BinDebug)?D(Parking)?E(Idle)]]></Value>
+	</Variable><Variable>
+<Name>Messages_0059</Name>
+<Value><![CDATA[4567891011121314]]></Value>
+	</Variable>
+<Variable>
+<Name>Messages_0060</Name>
+<Value><![CDATA[GMTPST8PDTEST5EDTCST6CDTMST7MDTGMT1GMT2GMT3GMT4GMT5GMT6GMT7GMT8GMT9GMT10GMT11GMT12GMT1GMT2GMT3GMT4GMT5GMT6GMT7GMT8GMT9GMT10GMT11GMT12]]></Value>
+	</Variable>
+<Variable>
+<Name>Messages_0061</Name>
+<Value><![CDATA[SynchronizedFreeRunning]]></Value>
+</Variable>
+<Variable>
+<Name>Messages_0062</Name>
+<Value><![CDATA[114158191211316]]></Value>
+</Variable>
+<Variable>
+<Name>Messages_0062A</Name>
+<Value><![CDATA[1:1-41:5-81:9-121:13-16]]></Value>
+</Variable>
+<Variable>
+<Name>Messages_0063</Name>
+		<Value><![CDATA[Choosing 'Yes' will remove the following Sensor from the map: param1]]></Value>
+</Variable>
+<Variable>
+		<Name>Messages_0064</Name>
+		<Value><![CDATA[Invalid csv content: The sensors and devices do not match in the configuration.]]></Value>
+</Variable>
+<Variable>
+		<Name>Messages_0065</Name>
+		<Value><![CDATA[LeftTurnThruRightTurnPedestrianNocall]]></Value>
+</Variable>
+<Variable>
+		<Name>Messages_0066</Name>
+		<Value><![CDATA[Entries in sensor configuration section must be defined in topology. This
+sensor does not have topology: param1]]></Value>
+</Variable>
+<Variable>
+<Name>Messages_0067</Name>
+		<Value><![CDATA[Reading and parsing config file...
+Clearing Dot Table...
+Writing config file to Gateway...
+Config file written to Gateway
+Saving to Gateway
+Validating...
+Saving dots to the Gateway...
+
+In order to properly update the BVD program running on the Gateway, TrafficDOT will reboot the Gateway and close after this save is completed.
+
+
+
+Configuration saved to flash
+Saving map data to the Gateway...
+Map data has been saved to the Gateway.
+
+Auto-configuration file saved]]></Value>
+</Variable>
+</Environment>
