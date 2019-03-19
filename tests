@@ -1,0 +1,206 @@
+<DATA>
+
+	<ROW>
+		<Name>Test_Reboot</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Connect_And_Roles</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Maps</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Table_Views</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_New_Sensors</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Sensor_Zone_EB</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Sensor_Zone_NB</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Sensor_Zone_SB</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Sensor_Zone_WB</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Microradar_Sensors</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Count_Zone_One_Sensor</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Stopbar_Zone_One_Sensor</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Travel_Time_Zone_Three_Sensors</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Speed_Zone_Two_Sensors</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Text_Box_Edit</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Reassign_SensorZone</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Change_Sensor_Zone_Name</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Parkng_Microradar</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Cancel_Exit</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Map_Layers</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Arrows_EB_XML</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Arrows_WB_XML</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Arrows_NB_XML</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Arrows_SB_XML</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_SensMetrics_XML</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_SensorZone_Layout_XML</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_SensMetrics_Config</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Tools_Utilities_Scan_Devices</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_EMEA_CC_STS_Mapping</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_EMEA_Auto_Config</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_EMEA_Backup_Restore</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_EMEA_No_Config</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_EMEA_Microradar</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_EMEA_7_Sensors</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_EMEA_Table_View</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_EMEA_Change_Channel_Write_Config_File_To_AP</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_EMEA_Template_Config</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_EMEA_Global_Sensitivity_Other</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_EMEA_Load_Config_File</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Export_Import_Dot_Table</Name>
+		<Run>skip</Run>
+	</ROW>
+
+	<ROW>
+		<Name>Test_Clear_Configured_Sensors</Name>
+		<Run>skip</Run>
+	</ROW>
